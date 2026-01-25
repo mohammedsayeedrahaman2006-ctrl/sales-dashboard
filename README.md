@@ -1,5 +1,6 @@
+📊 Ecommerce Sales Dashboard in 
+A professional dashboard built in Microsoft Excel to analyze ecommerce performance, track KPIs, and uncover actionable business insights across regions, products, customers, and payment modes.
 
- 📊 Ecommerce Sales Dashboard
 
 1. Overview
 This Power BI dashboard provides a comprehensive analysis of ecommerce sales performance across multiple dimensions. It enables business stakeholders to monitor key metrics such as revenue, profit, quantity sold, and average order value (AOV), while offering deep insights into customer behavior, product trends, and regional performance.
