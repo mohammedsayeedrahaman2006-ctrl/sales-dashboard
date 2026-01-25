@@ -39,5 +39,6 @@ This dashboard helps ecommerce businesses:
 - Make strategic decisions to improve profitability and customer satisfaction.
 
 6. sccreenshort / Demo
+
  show what the dashboad like (https://github.com/mohammedsayeedrahaman2006-ctrl/sales-dashboard/blob/main/Ecommerce%20sales%20dashboard%20.png.png)
 Example:[dashboard preview]<img width="1124" height="627" alt="Ecommerce sales dashboard  png" src="https://github.com/user-attachments/assets/b370989f-12e5-470c-a94a-b6f523d9ce1f" />
